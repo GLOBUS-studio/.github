@@ -1,6 +1,6 @@
 # GLOBUS.studio
 
-Software development company. We design and build scalable platforms, automation workflows, and AI-driven solutions - engineered for stability, growth, and long-term efficiency.
+We build digital products your team will still want to extend a year from now - platforms, SaaS, automation, AI.
 
 No juniors. No outsourcing chains. Direct communication, predictable timelines, and code that can actually be extended a year from now.
 
