@@ -10,6 +10,7 @@
   <a href="https://wordpress.org/plugins/botblocker-security/"><img src="https://img.shields.io/wordpress/plugin/dt/botblocker-security?logo=wordpress&logoColor=white&label=BotBlocker%20downloads&color=21759B" alt="WordPress downloads"></a>
   <a href="https://crates.io/users/MADEVAL"><img src="https://img.shields.io/crates/udt/428683?logo=rust&logoColor=white&label=Crates.io%20downloads&color=E43717" alt="Crates.io downloads"></a>
   <a href="https://pypistats.org/packages/readsight"><img src="https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/MADEVAL/MADEVAL/main/pypi-total.json&logo=pypi&logoColor=white&label=PyPI%20downloads" alt="PyPI downloads"></a>
+  <a href="https://pub.dev/publishers/leonidov.dev/packages"><img src="https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/MADEVAL/MADEVAL/main/pub-total.json&logo=dart&logoColor=white&label=Pub.dev%20downloads" alt="Pub.dev downloads"></a>
   <a href="https://github.com/MADEVAL?tab=repositories"><img src="https://img.shields.io/badge/Stars-1000%2B-yellow?logo=github&logoColor=white" alt="GitHub stars"></a>
   <a href="https://wordpress.org/plugins/botblocker-security/"><img src="https://img.shields.io/wordpress/plugin/rating/botblocker-security?logo=wordpress&logoColor=white&label=Rating&color=FFD700" alt="WordPress rating"></a>
 </p>
